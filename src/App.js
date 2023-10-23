@@ -12,8 +12,9 @@ import Adminprivatroute from './component/Adminprivatroute';
 import Adminprotectroute from './component/Adminprotectroute';
 import Clientprivatroute from './component/Clientprivatroute';
 import Clientpublicroute from './component/Clientpublicroute';
-import Userpublicroute from './component/Userpublicroute';
 import Userprivateroute from './component/Userprivateroute';
+
+import Userpublicroute from './component/Userpublicroute';
 
 function App() {
   return (
